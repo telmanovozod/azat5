@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+.ozod {
+    background-color: aqua;
+    color: black;
+
+}
+
+.ozod2{
+    background-color: brown;
+    color: white;
+}
+
+.span-1 {
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.span-2 {
+    background-color: red;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
+.span-3 {
+    background-color: green;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
+.ozod4{
+    color: aqua;
+    background-color: black;
+}
